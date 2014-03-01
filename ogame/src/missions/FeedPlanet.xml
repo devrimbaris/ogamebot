@@ -1,0 +1,4 @@
+<Mission name="InitPlanet">
+	<InfoGatherJob/>
+	<FleetSendJob planetId="323064"/>
+</Mission>

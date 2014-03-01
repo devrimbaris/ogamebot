@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<!DOCTYPE databases PUBLIC "-//EXOLAB/Castor Mapping DTD Version 1.0//EN" "http://castor.exolab.org/mapping.dtd">
+<mapping>
+
+	<class name="com.dba.ogame.job.Mission" >
+	<map-to xml="Mission" />
+		<field name="name" set-method="%1" type="string">
+			<bind-xml name="name" node="attribute"/>
+		</field>
+		<field name="jobList" type="com.dba.ogame.job.Job" collection="collection" />
+	</class>
+	
+	<class name="com.dba.ogame.job.BuildingUpgradeJob" >
+	<map-to xml="BuildingUpgradeJob" />
+		<field name="buildingName" set-method="%1" type="string">
+			<bind-xml name="buildingName" node="attribute"/>
+		</field>
+		<field name="level" set-method="%2" type="int">
+			<bind-xml name="level" node="attribute"/>
+		</field>
+	</class>
+
+	<class name="com.dba.ogame.job.InfoGatherJob" >
+		<map-to xml="InfoGatherJob" />
+	</class>
+
+	<class name="com.dba.ogame.job.FleetSendJob" >
+		<map-to xml="FleetSendJob" />
+		<field name="planetId" set-method="%1" type="string">
+			<bind-xml name="planetId" node="attribute"/>
+		</field>
+	</class>
+	
+	
+	<class name="com.dba.ogame.model.PlanetsList" >
+	<map-to xml="PlanetsList" />
+		<field name="arlPlanets" type="com.dba.ogame.model.Planet" collection="collection" />
+	</class>
+	
+	<class name="com.dba.ogame.model.Planet" >
+	<map-to xml="Planet" />
+		<field name="planetId" set-method="%1" type="string">
+			<bind-xml name="planetId" node="attribute"/>
+		</field>
+		<field name="missionName" set-method="%2" type="string">
+			<bind-xml name="missionName" node="attribute"/>
+		</field>
+		<field name="name" set-method="%3" type="string">
+			<bind-xml name="name" node="attribute"/>
+		</field>
+		<field name="galaksi" set-method="%4" type="string">
+			<bind-xml name="galaksi" node="attribute"/>
+		</field>
+		<field name="sistem" set-method="%5" type="string">
+			<bind-xml name="sistem" node="attribute"/>
+		</field>
+		<field name="gezegen" set-method="%6" type="string">
+			<bind-xml name="gezegen" node="attribute"/>
+		</field>
+	</class>
+
+</mapping>

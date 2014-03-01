@@ -1,0 +1,78 @@
+<Mission name="InitPlanet">
+	<InfoGatherJob/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="1"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="1"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="2"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="3"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="2"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="1"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="4"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="3"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="5"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="6"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="4"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="2"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="7"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="5"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="3"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="4"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="5"/>							
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="6"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="8"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="1"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="7"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="2"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="3"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="4"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="5"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="8"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="6"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="6"/>	
+							<BuildingUpgradeJob buildingName="building.Kristal" level="7"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="9"/>																																						
+				<BuildingUpgradeJob buildingName="building.Metal" level="9"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="8"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="10"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="7"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="8"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="11"/>
+<BuildingUpgradeJob buildingName="building.BilimselArastirmaMerkezi" level="1"/>
+<BuildingUpgradeJob buildingName="building.FuzyonEnerji" level="1"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="8"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="9"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="9"/>
+<BuildingUpgradeJob buildingName="building.FuzyonEnerji" level="2"/>
+
+<BuildingUpgradeJob buildingName="building.RobotFabrikasi" level="1"/>
+<BuildingUpgradeJob buildingName="building.RobotFabrikasi" level="2"/>
+<BuildingUpgradeJob buildingName="building.UzayTersanesi" level="1"/>
+<BuildingUpgradeJob buildingName="building.UzayTersanesi" level="2"/>
+						
+							<BuildingUpgradeJob buildingName="building.Kristal" level="10"/>										
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="10"/>										
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="12"/>	
+				<BuildingUpgradeJob buildingName="building.Metal" level="10"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="11"/>
+<BuildingUpgradeJob buildingName="building.FuzyonEnerji" level="3"/>	
+				<BuildingUpgradeJob buildingName="building.Metal" level="12"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="11"/>							
+							<BuildingUpgradeJob buildingName="building.Kristal" level="11"/>
+<BuildingUpgradeJob buildingName="building.FuzyonEnerji" level="4"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="12"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="12"/>
+<BuildingUpgradeJob buildingName="building.FuzyonEnerji" level="5"/>
+										<BuildingUpgradeJob buildingName="building.Deuterium" level="13"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="13"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="12"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="13"/>
+				<BuildingUpgradeJob buildingName="building.Metal" level="12"/>
+							<BuildingUpgradeJob buildingName="building.Kristal" level="13"/>
+	<BuildingUpgradeJob buildingName="building.SolarEnerji" level="14"/>
+</Mission>	
+
+
+
+
+
+
+

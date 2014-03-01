@@ -1,0 +1,11 @@
+<PlanetsList>
+	<Planet planetId="323064" missionName="InfoGather" name="Saksuka" galaksi="2" sistem="74" gezegen="9" />
+	<Planet planetId="334780" missionName="FeedPlanet" name="Haydari" galaksi="2" sistem="74" gezegen="10" />
+	<Planet planetId="342290" missionName="InitPlanet" name="Tarator" galaksi="2" sistem="74" gezegen="2" />
+	<Planet planetId="344672" missionName="InitPlanet" name="Babagannush" galaksi="2" sistem="73" gezegen="13" />
+	<Planet planetId="344723" missionName="InitPlanet" name="Pavurya" galaksi="2" sistem="73" gezegen="14" />
+	<Planet planetId="345285" missionName="InitPlanet" name="Humus" galaksi="2" sistem="73" gezegen="15" />
+	<Planet planetId="348974" missionName="InitPlanet" name="Lakerda" galaksi="2" sistem="73" gezegen="3" />
+	<Planet planetId="348171" missionName="InitPlanet" name="Hibesh" galaksi="2" sistem="76" gezegen="13" />
+	<Planet planetId="348753" missionName="InitPlanet" name="Pembe Sultan" galaksi="2" sistem="64" gezegen="9" />
+</PlanetsList>

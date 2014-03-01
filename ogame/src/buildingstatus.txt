@@ -1,0 +1,83 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+<link rel="stylesheet" type="text/css" href="http://80.237.203.201/download/use/epicblue/formate.css">
+<title>
+Bina#Gebaeude
+</title>
+</head>
+<body>
+<center>
+<h1>
+</h1>
+    <script language=JavaScript> if (parent.frames.length == 0) { top.location.href = "http://www.ogame.de/"; } </script> <center>
+
+  <table><tr><td>
+</td><td>    <SCRIPT language=JavaScript>
+       function haha(z1){
+    eval("location='"+z1.options[z1.selectedIndex].value+"'");
+  }
+  </script>
+      <center><table><tr><td><img src="http://80.237.203.201/download/use/epicblue/planeten/small/s_eisplanet04.jpg" width=50 height=50 ></td><td><table border=1 ><select  size=1 onchange="haha(this)">
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=323064&mode=&gid=&messageziel=&re=0" >Saksuka [2:74:9]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=334780&mode=&gid=&messageziel=&re=0" >Haydari [2:74:10]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=342290&mode=&gid=&messageziel=&re=0" >Tarator [2:74:2]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=344079&mode=&gid=&messageziel=&re=0" >Pembe Sultan [2:75:14]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=344672&mode=&gid=&messageziel=&re=0" >Babagannush [2:73:13]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=344723&mode=&gid=&messageziel=&re=0" >Pavurya [2:73:14]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=345285&mode=&gid=&messageziel=&re=0" selected>Humus [2:73:15]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=345664&mode=&gid=&messageziel=&re=0" >Hibesh [2:75:15]
+<option  value="/game/b_building.php?session=3cfefdfb60d7&cp=346436&mode=&gid=&messageziel=&re=0" >Lakerda [2:73:3]</select>
+
+</table></table></td><td>
+        <table border='0' width='100%' cellspacing='0' cellpadding='0' >
+          <tr>
+            <td align='center'></td>
+            <td align='center' width='85'><img border='0' src='http://80.237.203.201/download/use/epicblue/images/metall.gif' width='42' height='22'></td>
+            <td align='center' width='85'><img border='0' src='http://80.237.203.201/download/use/epicblue/images/kristall.gif' width='42' height='22'></td>
+            <td align='center' width='85'><img border='0' src='http://80.237.203.201/download/use/epicblue/images/deuterium.gif' width='42' height='22'></td>
+            <td align='center' width='85'><img border='0' src='http://80.237.203.201/download/use/epicblue/images/energie.gif' width='42' height='22'></td>
+            <td align='center'></td>
+
+          </tr>
+          <tr>
+            <td align='center'><i><b>&nbsp;&nbsp;</b></i></td>
+            <td align='center' width='85'><i><b><font color='#ffffff'>Metal</font></b></i></td>
+            <td align='center' width='85'><i><b><font color='#ffffff'>Kristal</font></b></i></td>
+            <td align='center' width='85'><i><b><font color='#ffffff'>Deuterium</font></b></i></td>
+            <td align='center' width='85'><i><b><font color='#ffffff'>Enerji</font></b></i></td>
+
+            <td align='center'><i><b>&nbsp;&nbsp;</b></i></td>
+          </tr>
+          <tr>
+            <td align='center'></td>
+            <td align='center' width='85'>852</td>
+            <td align='center' width='85'>1.442</td>
+            <td align='center' width='85'>127</td>
+
+            <td align='center' width='85'>3/212</td>
+            <td align='center'></td>
+          </tr>
+        </table>
+
+
+
+</tr>
+</table>
+</center>
+<center>
+<!-- IVW VERSION="1.2" -->
+
+<script type="text/javascript">
+<!-- var IVW="http://tiscali.ivwbox.de/cgi-bin/ivw/CP/ogame20;ogame20"; document.write("<IMG SRC=\""+IVW+"?r="+escape(document.referrer)+"\" WIDTH=\"1\" HEIGHT=\"1\" alt=\"\">"); //-->
+ </script>
+ <noscript>
+ <p><img src="http://tiscali.ivwbox.de/cgi-bin/ivw/CP/ogame20;ogame20" width="1" height="1" alt="" /></p>
+ </noscript>
+ <!-- /IVW -->
+<br><iframe id='a01a5edb' name='a01a5edb' src='http://ads.gameforgeads.de/adframe.php?n=a01a5edb&amp;what=zone:368' framespacing='0' frameborder='no' scrolling='no' width='468' height='60'></iframe><table align=top><tr><td>  <table width=530><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=1><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/1.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=1>Metal Madeni</a></a> (Kademe 6)<br>Gemi ve  bina insaatinda kullanilan, olmazsa olmaz hammaddelerin en önemli kaynagi .<br> Gereken: Metal:<b>683</b> Kristal:<b>170</b><br>Yapim Süresi:  20m 30s<br><td class=l><a href=b_building.php?session=3cfefdfb60d7&bau=1&cp=345285><font color=#00FF00>Insaati Ilerlet<br> Kademe  7</font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=2><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/2.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=2>Kristal Madeni</a></a> (Kademe 5)<br>Elektronik insaat malzemesi ve alasim için gereken hammaddelerin en önemli kaynagi.<br> Gereken: Metal:<b>503</b> Kristal:<b>251</b><br>Yapim Süresi:  18m 07s<br><td class=l><a href=b_building.php?session=3cfefdfb60d7&bau=2&cp=345285><font color=#00FF00>Insaati Ilerlet<br> Kademe  6</font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=3><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/3.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=3>Deuterium Sentezleyicisi</a></a> (Kademe 1)<br>Bir gezegende bulunan su kütlesinden sadece suyun icinde az miktarda bulunan Deuterium elementini cikarir.<br> Gereken: Metal:<b>337</b> Kristal:<b>112</b><br>Yapim Süresi:  10m 48s<br><td class=l><a href=b_building.php?session=3cfefdfb60d7&bau=3&cp=345285><font color=#00FF00>Insaati Ilerlet<br> Kademe  2</font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=4><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/4.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=4>Solarenerji Santrali</a></a> (Kademe 6)<br>Solarenerji günes isinlarindan elde ediliyor. Neredeyse tüm binalarin, üretim icin enerjiye ihtiyaclari var.<br> Gereken: Metal:<b>854</b> Kristal:<b>341</b><br>Yapim Süresi:  28m 42s<br><td class=l><font color=#FF0000>Insaati Ilerlet<br> Kademe  7</font></td></tr></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=14><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/14.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=14>Robot Fabrikasi</a><br>Robot fabrikalari gezegenin altyapisi ve organizasyonu için gereken vasifsiz is gücünü üretiyorlar.Kademesi arttikça diger binalarin yapim süreci de daha hizli isliyor.<br> Gereken: Metal:<b>400</b> Kristal:<b>120</b> Deuterium:<b>200</b><br>Yapim Süresi:  12m 28s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr></tr></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=22><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/22.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=22>Metal Deposu</a><br>Daha islenmemis ama islenmeye hazir metallerin içinde tutulabilecegi depo.<br> Gereken: Metal:<b>2.000</b> Kristal:<b>0</b><br>Yapim Süresi:  48m 00s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=23><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/23.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=23>Kristal Deposu</a><br>Daha islenmemis ama islenmeye hazir kristallerin içinde tutulabilecegi depo.<br> Gereken: Metal:<b>2.000</b> Kristal:<b>1.000</b><br>Yapim Süresi: 1h 12m 00s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=24><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/24.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=24>Deuterium Tankeri</a><br>Yeni elde edilen deuterium'un depolanabilecegi dev tankerler.<br> Gereken: Metal:<b>2.000</b> Kristal:<b>2.000</b><br>Yapim Süresi: 1h 36m 00s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=31><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/31.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=31>Bilimsel Arastirma Labarotuvari</a><br>Yeni teknolojileri kesfedebilmek için bilimsel arastirma istasyonu gerekli .<br> Gereken: Metal:<b>200</b> Kristal:<b>400</b> Deuterium:<b>200</b><br>Yapim Süresi:  14m 24s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr></tr></tr></tr><tr><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=44><img border='0' src="http://80.237.203.201/download/use/epicblue/gebaeude/44.gif" align='top' width='120' height='120'></a></td><td class=l><a href=infos_new.php?session=3cfefdfb60d7&gid=44>Roket Silosu</a><br>Roket silolarinda roketler konuslandirilir.<br> Gereken: Metal:<b>20.000</b> Kristal:<b>20.000</b> Deuterium:<b>1.000</b><br>Yapim Süresi: 16h 00m 00s<br><td class=l><font color=#FF0000> Insa Etmek </font></a></td></tr></tr></table></td><td valign="top">
+
+<br></center>
+</body>
+</html>
