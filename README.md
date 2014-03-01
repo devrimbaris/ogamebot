@@ -1,4 +1,4 @@
-This was a bot I have written way ago when I used to play ogame and got bored of waiting while upgrading the planets.
+This was a bot I have written way ago(around 2005) when I used to play ogame and got bored of waiting while upgrading the planets.
 
 Quickly it became one of my most enjoyable projects to develop.
 
