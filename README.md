@@ -9,5 +9,5 @@ But can give you a rough idea.
 I lost the code for which I have developed for expressing conditionals in XML to get rid of code updates when I want to change some rules.
 
 
-Anyway it was a nice project to develop and I learned lots of stuff.
+Anyway it was fun back then!
 
